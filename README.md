@@ -1,6 +1,6 @@
-<h1 align="center"> 📚 LiterAlura 📚</h1>
+<h1 align="center"> ✨ Fórum Hub ✨</h1>
 <p align="center">
-  <img src="https://github.com/ElisIrons/literAlura/assets/86434261/37d25aa2-0ec0-4d35-8833-fb20efcc6de7"
+  <img src="https://github.com/user-attachments/assets/80ea9cc2-0b29-4231-a419-b5fa6d10fe45"
 " alt="badge literalura" width="300" />
 </p>
 
